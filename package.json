@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "A chat example to showcase how to use `socket.io` with a static `express` server",
   "main": "server.js",
-  "repository": "fermenting43",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iwantdavid/fermenting43.git"
+    },
   "author": "Mostafa Eweda <mostafa@c9.io>",
   "dependencies": {
     "async": "~0.2.8",
